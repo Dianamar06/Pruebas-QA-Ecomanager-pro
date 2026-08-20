@@ -1,0 +1,21 @@
+{
+  "url": "https://harley-bureau-useful-moment.trycloudflare.com",
+  "status": 200,
+  "loadTimeMs": 5074,
+  "paintMetrics": {
+    "first-paint": 432,
+    "first-contentful-paint": 1200
+  },
+  "scores": {
+    "performance": 86,
+    "accessibility": 0,
+    "bestPractices": 95,
+    "seo": 92
+  },
+  "wcagChecks": {
+    "1.1.1 Non-text Content (Images Alt)": "3/3 con alt",
+    "2.4.2 Page Titled": "PASS (\"EcoManager Pro — Monitoreo Ambiental San Juan del Río\")",
+    "3.1.1 Language of Page": "PASS (es)",
+    "4.1.2 Name, Role, Value (Buttons)": "0/1 accesibles"
+  }
+}
